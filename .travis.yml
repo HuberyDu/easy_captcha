@@ -1,0 +1,10 @@
+rvm:
+  - 1.9.2
+  - 1.9.3
+  - jruby
+notifications:
+  recipients:
+    - develop@marco-scholl.de
+branches:
+  only:
+    - master
